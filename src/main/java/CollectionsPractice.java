@@ -49,6 +49,7 @@ public class CollectionsPractice {
             }
             if(!Character.isAlphabetic(input.charAt(i)))
             System.out.print(input.charAt(i));
+            //Just a random changeq
         }
     }
 
