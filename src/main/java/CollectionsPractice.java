@@ -45,6 +45,7 @@ public class CollectionsPractice {
             }
             if ((Character.isLowerCase((input.charAt(i))))) {
                 System.out.print(Character.toUpperCase(input.charAt(i)));
+                System.out.println();
             }
             if(!Character.isAlphabetic(input.charAt(i)))
             System.out.print(input.charAt(i));
