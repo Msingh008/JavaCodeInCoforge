@@ -49,7 +49,7 @@ public class CollectionsPractice {
             }
             if(!Character.isAlphabetic(input.charAt(i)))
             System.out.print(input.charAt(i));
-            System.out.println("Chages I am making to create conflict.....");
+            System.out.println("Chages i am making to create conflictgi .....");
 
             //Just a random changeq
         }
