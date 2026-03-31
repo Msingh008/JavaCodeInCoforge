@@ -32,6 +32,8 @@ public class CollectionsPractice {
                 sb.append(endPart).reverse().append('$').append(sb1.toString());
                 output.add(sb.toString());
             }
+
+
         }
         for (int i = output.size() - 1; i >= 0; i--) {
             System.out.print(output.get(i) + " ");
@@ -49,9 +51,7 @@ public class CollectionsPractice {
             }
             if(!Character.isAlphabetic(input.charAt(i)))
             System.out.print(input.charAt(i));
-            System.out.println("Chages i am making to create conflictgi .....");
 
-            //Just a random changeq
         }
     }
 
